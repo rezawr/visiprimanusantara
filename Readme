@@ -1,0 +1,11 @@
+Install django default, by using tutorial on README.md
+
+After migrating all the migrations, make sure the celery was run
+
+For generate and randomize teacher, subject and table, use 
+
+```
+   python manage.py randomize
+```
+
+The arguments were well documented. type --help to show the argument list
